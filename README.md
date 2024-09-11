@@ -10,10 +10,7 @@ Library Management System - V2 is a multi-user web application that facilitates 
 - [Database Models](#database-models)
 - [Core Functionalities](#core-functionalities)
 - [Backend Jobs](#backend-jobs)
-- [Optional Functionalities](#optional-functionalities)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+
 
 ## Features
 
